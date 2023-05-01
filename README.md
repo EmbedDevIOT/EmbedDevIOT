@@ -5,11 +5,11 @@ Hi 👋 My name is Aleksey Baranov
 
 Embedded developers.
 --------------------
-
 I am developing smart devices. Full stack development. Software and Hardware level.
 
 * 🌍  I'm based in Russia. N.Novgorod
 * ✉️  You can contact me at [EmbedDev.IOT@gmail.com](mailto:EmbedDev.IOT@gmail.com)
+--------------------
 
 ### Skills
 
