@@ -1,8 +1,7 @@
 <div id="header" align="left">
-<img src= https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif width="100"/>
+<img src= https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif width="280"/>
 </div>
 Hi 👋 My name is Aleksey Baranov
-================================
 
 Embedded developers.
 --------------------
@@ -26,6 +25,6 @@ I am developing smart devices. Full stack development. Software and Hardware lev
 </p>
 
 
-### Socials
+<!-- ### Socials
 
-<p align="left"> <a href="https://www.github.com/EmbedDevIOT" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/EmbedDevIOT" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p> -->
