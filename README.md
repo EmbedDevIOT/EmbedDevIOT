@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src= https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif width="280"/>
+<img src= https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif width="300"/>
 
 Hi 👋 My name is Aleksey Baranov
   
