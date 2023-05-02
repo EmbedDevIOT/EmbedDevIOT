@@ -2,8 +2,10 @@
 <img src= https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif width="280"/>
 
 Hi 👋 My name is Aleksey Baranov
+  
+  Embedded developers.
 </div>
-Embedded developers.
+
 --------------------
 I am developing smart devices. Full stack development. Software and Hardware level.
 
