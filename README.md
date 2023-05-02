@@ -1,8 +1,8 @@
-<div id="header" align="left">
+<div id="header" align="center">
 <img src= https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif width="280"/>
-</div>
-Hi 👋 My name is Aleksey Baranov
 
+Hi 👋 My name is Aleksey Baranov
+</div>
 Embedded developers.
 --------------------
 I am developing smart devices. Full stack development. Software and Hardware level.
