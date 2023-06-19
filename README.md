@@ -13,7 +13,7 @@ I am developing smart devices. Full stack development. Software and Hardware lev
 * ✉️  You can contact me at [EmbedDev.IOT@gmail.com](mailto:EmbedDev.IOT@gmail.com)
 --------------------
 
-### Skills
+### :hammer_and_wrench: Languages and Tools :
 
 
 <p align="left">
