@@ -17,7 +17,6 @@ I am developing smart devices. Full stack development. Software and Hardware lev
 
 
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EmbedDevIOT/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
