@@ -3,7 +3,7 @@
 
 Hi 👋 My name is Aleksey Baranov
   
-  Embedded developers.
+ <h1> Embedded developers. </h1>
 </div>
 
 --------------------
