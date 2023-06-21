@@ -9,8 +9,8 @@ Hi 👋 My name is Aleksey Baranov
 --------------------
 I am developing smart devices. Full stack development. Software and Hardware level.
 
-* 🌍  I'm based in Russia. N.Novgorod
-* ✉️  You can contact me at [EmbedDev.IOT@gmail.com](mailto:EmbedDev.IOT@gmail.com)
+* I'm based in Russia. N.Novgorod
+*  You can contact me at [EmbedDev.IOT@gmail.com](mailto:EmbedDev.IOT@gmail.com)
 --------------------
 
 ### :hammer_and_wrench: Languages and Tools :
