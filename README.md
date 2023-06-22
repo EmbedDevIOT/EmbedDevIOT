@@ -31,7 +31,10 @@ I am developing smart devices. Full stack development. Software and Hardware lev
 </p>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EmbedDevIOT&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EmbedDevIOT&theme=dark&hide_border=true)](https://git.io/streak-stats)
+</div>
+
 
 <!-- ### Socials
 
