@@ -13,7 +13,7 @@ I am developing smart devices. Full stack development. Software and Hardware lev
 *  I'm based in Russia. N.Novgorod
 *  You can contact me at [EmbedDev.IOT@gmail.com](mailto:EmbedDev.IOT@gmail.com)
 *  Write to me on telegram https://t.me/EmbedDev
---------------------
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
