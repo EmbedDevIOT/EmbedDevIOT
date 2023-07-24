@@ -4,14 +4,15 @@
 
 </div>
 <div id="body" align="center">
- <h1> Hi 👋 My name is Aleksey Baranov!
-  I am an Embedded developers. </h1>
+ <h1> Hi, i am Aleksey Baranov!
+  I am an Embedded developer. </h1>
 </div>
+
 I am developing smart devices. Full stack development. Software and Hardware level.
+
 *  I'm based in Russia. N.Novgorod
 *  You can contact me at [EmbedDev.IOT@gmail.com](mailto:EmbedDev.IOT@gmail.com)
 *  Write to me on telegram https://t.me/EmbedDev
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
