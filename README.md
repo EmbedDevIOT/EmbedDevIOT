@@ -7,7 +7,7 @@
  <h1> Hi 👋 My name is Aleksey Baranov!
   I am an Embedded developers. </h1>
 </div>
-
+---
 I am developing smart devices. Full stack development. Software and Hardware level.
 
 *  I'm based in Russia. N.Novgorod
