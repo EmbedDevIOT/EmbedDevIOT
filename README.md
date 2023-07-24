@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src= https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif width="300"/>
+<img src= https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif width="600"/>
 </div>
 <div id="body" align="center">
  <h1> Hi 👋 My name is Aleksey Baranov! I am an Embedded developers. </h1>
