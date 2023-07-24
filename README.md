@@ -2,7 +2,7 @@
 <img src= https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif width="300"/>
 </div>
 <div id="body" align="center">
-<h1> Hi 👋 My name is Aleksey Baranov </h1>
+ Hi 👋 My name is Aleksey Baranov 
 <h1> Embedded developers. </h1>
 </div>
 
