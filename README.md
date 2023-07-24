@@ -35,10 +35,8 @@ I am developing smart devices. Full stack development. Software and Hardware lev
 </p>
 
 ### :fire: My Stats :
-<div>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmbedDevIOT&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EmbedDevIOT&theme=dark&hide_border=true)](https://git.io/streak-stats)
-</div>
 
   
 <!--
