@@ -32,7 +32,7 @@ I am developing smart devices. Full stack development. Software and Hardware lev
   <img src="https://github.com/EmbedDevIOT/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EmbedDevIOT/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 </p>
-
+---
 ### :fire: My Stats :
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmbedDevIOT&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EmbedDevIOT&theme=dark&hide_border=true)](https://git.io/streak-stats)
